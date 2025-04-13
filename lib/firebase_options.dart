@@ -41,12 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC-x5zVcJFUz6d7Rx5b5lUFmkIZl9UsWaU',
-    appId: '1:551172864201:web:02768c95c77e1228293518',
-    messagingSenderId: '551172864201',
-    projectId: 'adityaraorane-c8a1f',
-    authDomain: 'adityaraorane-c8a1f.firebaseapp.com',
-    storageBucket: 'adityaraorane-c8a1f.firebasestorage.app',
+    //API_DETAILS
   );
 
   static const FirebaseOptions android = FirebaseOptions(
